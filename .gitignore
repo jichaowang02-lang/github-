@@ -1,0 +1,10 @@
+# Added by GitHub 可视化提交工具
+# 通用
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+.env
+.env.*
+.venv/
